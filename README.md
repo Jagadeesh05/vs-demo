@@ -4,4 +4,5 @@ some text
 
 github changes
 cmd txt
-txt txt txt
+
+feature 1: added
